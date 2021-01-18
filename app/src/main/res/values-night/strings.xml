@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="_1">1</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_text">Note Text</string>
 </resources>
